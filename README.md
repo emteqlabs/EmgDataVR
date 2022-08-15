@@ -9,7 +9,7 @@ This is the official repository for the paper “Facial EMG sensing for monitori
 - The total duration of the collected data is around 8.5 hours. 
 
 # Download
-The dataset can be downloaded at the following [link]().
+The dataset and the code can be downloaded at the following [link]().
 
 # Contact 
 For any information about the **EmgDataVR** feel free to contact us at ivana.kiprijanovska@emteqlabs.com
