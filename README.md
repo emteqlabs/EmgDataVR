@@ -13,6 +13,11 @@ This is the official repository for the paper “Facial EMG sensing for monitori
 The EmgDataVR dataset and the code for replicating the data preprocessing steps and generating the statistical results presented in the paper can be downloaded at the following [link](https://drive.google.com/drive/folders/18LhP7-hisSZvuFrF8SHiFOBUdWvjuMdA?usp=sharing).
 
 The affective stimuli database can be downloaded [here](https://drive.google.com/file/d/1Qr6N2b4kf0FW7rJNfdUYR1lF7AElET-5/view?usp=sharing).
+Please acknowledge the use of the database in any future publications by citing also the original sources:
+
+- *Samson, AC, Kreibig, SD, Soderstrom, B, Wade, AA, & Gross, JJ, (2016), Eliciting positive, negative and mixed emotional states: A film library for affective scientists. Cognition and Emotion, 30(5), pp. 827-856, (2016).* 
+
+- *Gnacek M., Mavridou I, Seiss E, Kostoulas T, Balaguer-Ballester E., Nduka C. "AVDOS -Affective Video Database Online Study.” 2022, In: 10th International Conference on Affective Computing and Intelligent Interaction (ACII), Japan, 18-21 October, p:8, (2022).* 
 
 
 # Contact 
