@@ -1,6 +1,6 @@
 # EmgDataVR
 
-This is the official repository for the paper “Facial EMG sensing for monitoring affect using a wearable device”. It contains the code and the dataset used for the analysis presented in the paper. The EmgDataVR dataset was created by [Emteq Labs](https://www.emteqlabs.com/).
+This is the official repository for the paper [“Facial EMG sensing for monitoring affect using a wearable device”](https://www.nature.com/articles/s41598-022-21456-1). It contains the code and the dataset used for the analysis presented in the paper. The EmgDataVR dataset was created by [Emteq Labs](https://www.emteqlabs.com/).
 
 # Description
 - For data collection, we used the [emteqPRO system](https://www.emteqlabs.com/emteqpro/), consisting of a VR sensor mask insert with a Pico Neo 2 Eye VR headset.
@@ -22,3 +22,11 @@ Please acknowledge the use of the database in any future publications by citing 
 
 # Contact 
 For any information about the **EmgDataVR** feel free to contact us at ivana.kiprijanovska@emteqlabs.com
+
+# Citation
+If you find the data useful, please acknowledge the use of this dataset in any future publications by referencing the paper:  
+[**Facial EMG sensing for monitoring affect using a wearable device**](https://www.nature.com/articles/s41598-022-21456-1)  
+*Gjoreski, M.; Kiprijanovska, I.; Stankoski, S.; Mavridou, I.; Broulidakis, J.; Gjoreski, H.; Nduka, C.*  
+Nature Scientific Reports 12, 16876 (2022). https://doi.org/10.1038/s41598-022-21456-1
+
+
