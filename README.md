@@ -10,7 +10,7 @@ This is the official repository for the paper [“Facial EMG sensing for monitor
 - The total duration of the collected data is around 8.5 hours. 
 
 # Download
-The EmgDataVR dataset and the code for replicating the data preprocessing steps and generating the statistical results presented in the paper can be downloaded at the following [link](https://drive.google.com/drive/folders/18LhP7-hisSZvuFrF8SHiFOBUdWvjuMdA?usp=sharing).
+The EmgDataVR dataset and the code for replicating the data preprocessing steps and generating the statistical results presented in the paper can be downloaded at the following [link](https://www.kaggle.com/datasets/emteqlabs/emgdatavr).
 
 The affective stimuli database can be downloaded [here](https://drive.google.com/file/d/1Qr6N2b4kf0FW7rJNfdUYR1lF7AElET-5/view?usp=sharing).
 Please acknowledge the use of the database in any future publications by citing also the original sources:
